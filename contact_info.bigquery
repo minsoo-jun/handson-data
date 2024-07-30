@@ -1,0 +1,12 @@
+created_at:TIMESTAMP,
+id:INTEGER,
+first_name:STRING,
+last_name:STRING,
+age:INTEGER,
+email:STRING,
+city:STRING,
+state:STRING,
+zip:STRING,
+country:STRING,
+latitude:FLOAT,
+longitude:FLOAT
