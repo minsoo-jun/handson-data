@@ -1,0 +1,13 @@
+created_at:TIMESTAMP,
+zip:STRING,
+state:STRING,
+last_name:STRING,
+country:STRING,
+age:INTEGER,
+email:STRING,
+latitude:FLOAT,
+first_name:STRING,
+city:STRING,
+longitude:FLOAT,
+gender:STRING,
+id:INTEGER
